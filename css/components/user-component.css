@@ -18,6 +18,8 @@
   font-size: 20px;
 }
 .user-component__subtitle {
+  display: flex;
+  align-items: center;
   margin-top: 8px;
   font-size: 17px;
   color: rgba(0, 0, 0, 0.5);
@@ -43,4 +45,9 @@
 .user-component__time {
   margin-bottom: 5px;
   display: block;
+}
+.user-component__mark {
+  font-size: 20px;
+  margin-left: 5px;
+  color: tomato;
 }
