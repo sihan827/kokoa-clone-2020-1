@@ -9,3 +9,10 @@
   color: white;
   font-weight: 600;
 }
+.badge-ellip {
+  height: 6px;
+  width: 6px;
+  background-color: tomato;
+  border-radius: 15px;
+  position: absolute;
+}

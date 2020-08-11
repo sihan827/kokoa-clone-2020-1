@@ -13,3 +13,11 @@
 .screen-header__icons span {
   margin-left: 25px;
 }
+.screen-header__icon {
+  position: relative;
+}
+.screen-header__icon .badge-ellip {
+  position: absolute;
+  right: -3px;
+  top: -8px;
+}
