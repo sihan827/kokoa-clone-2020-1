@@ -20,6 +20,9 @@
   align-items: center;
   color: var(--grey);
 }
+.more-suggestions__icon span {
+  text-align: center;
+}
 .more-suggestions__icon-image {
   width: 60px;
   height: 60px;
